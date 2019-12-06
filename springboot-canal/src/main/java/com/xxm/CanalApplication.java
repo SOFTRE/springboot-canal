@@ -9,9 +9,9 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 /**
  * 描述
  *
- * @author ljh
+ * @author Mr Liu
  * @version 1.0
- * @package com.changgou *
+ * @package com.xxm *
  * @Date 2019-11-26
  * @since 1.0
  */
